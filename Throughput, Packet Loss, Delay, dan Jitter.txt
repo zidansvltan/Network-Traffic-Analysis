@@ -1,0 +1,15 @@
+Throughput :
+18.111.916/665,762 = 27.204,79  --> dalam bytes/s
+1 bytes = 8 bit
+27.204,79 * 8 = 217k bits/s
+
+Packet Loss :
+(6*100%)/40097 = 0,015%
+
+Delay :
+Total Delay  :	665.762056
+Rata" Delay :	0.016603787
+
+Jitter :
+Total Jitter   :	664.583803
+Rata" Jitter   :	0.016574816
